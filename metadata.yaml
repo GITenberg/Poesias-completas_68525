@@ -1,0 +1,36 @@
+_repo: Poesias-completas_68525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Machado, Antonio
+    aliases:
+    - Machado i Ruis, Antonio
+    - Ruiz, Antonio Machado y
+    birthdate: 1875
+    deathdate: 1939
+    gutenberg_agent_id: '45335'
+    url: http://www.gutenberg.org/2009/agents/45335
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Antonio_Machado
+    - https://en.wikipedia.org/wiki/Antonio_Machado
+description: ''
+gutenberg_issued: '2022-07-15'
+identifiers:
+  gutenberg: '68525'
+language: es
+pgterms:marc904: http://bdh-rd.bne.es/viewer.vm?id=0000252160&page=1
+pgterms:marc905: 20220205095704machado
+pgterms:marc906: '1917'
+pgterms:marc907: ES
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Biblioteca Nacional de España. )
+publication_note: Spain :Publicaciones de la Residencia de Estudiantes,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish poetry'
+- !lcc 'PQ'
+- GITenberg
+title: Poesías completas
+url: http://www.gutenberg.org/ebooks/68525
