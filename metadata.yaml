@@ -1,5 +1,8 @@
 _repo: Poesias-completas_68525
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68525-h/images/cover.jpg
 creator:
   author:
     agent_name: Machado, Antonio
@@ -14,6 +17,8 @@ creator:
     - https://es.wikipedia.org/wiki/Antonio_Machado
     - https://en.wikipedia.org/wiki/Antonio_Machado
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68525#Poesias-completas
 gutenberg_issued: '2022-07-15'
 identifiers:
   gutenberg: '68525'
